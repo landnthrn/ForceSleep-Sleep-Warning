@@ -104,6 +104,3 @@ This makes it trigger within about 30 seconds of idle time for testing
 [![PayPal](https://img.shields.io/badge/PayPal-311A82?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
 
 ---
-
-
----
