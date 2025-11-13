@@ -2,6 +2,7 @@
 
 BETTER PC SLEEP + SLEEP WARNING
 This feature simulates the regular sleeping system and adds more convenience to it.
+Comes with a mini UI in command prompt.
 
 MAIN USES:
 Ease of access & speed with changing specifics to your sleeping setup, useful for certain tasks
