@@ -7,7 +7,6 @@ POWERSHELL COMMAND LIST (RUN IN ADMINISTRATOR)
 
 CREATE THE IDLE/SLEEP WATCHER TASK:
 
-```
 $taskName    = "ForceSleep_Watcher"
 $scriptPath  = "$env:USERPROFILE\Documents\Scripts\ForceSleep\forcesleep.ps1"
 $powershellExe = Join-Path $env:WINDIR "System32\WindowsPowerShell\v1.0\powershell.exe"
@@ -30,7 +29,6 @@ $settings.StartWhenAvailable         = $true
 
 Register-ScheduledTask -TaskName $taskName -Action $action -Trigger $trigger -Principal $principal -Settings $settings
 Start-ScheduledTask   -TaskName $taskName
-```
 
 This preserves the apostrophe in `forcesleep.ps1` and matches the known-good task configuration.
 
