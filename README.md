@@ -25,7 +25,7 @@ Comes with a mini UI in command prompt.
 ### CMD SLEEP COMMANDS:
 `sleep` — Display this list of commands  
 `sleepon` — Enable idle sleep  
-`sleepoff` — Disable idle sleep
+`sleepoff` — Disable idle sleep  
 `sleepstatus` — Check if the watcher is enabled/disabled  
 `sleeptime` — Change the set idle time to trigger sleep  
 `sleeprestart` — Restart the sleep watcher task manually  
